@@ -12,7 +12,7 @@ struct StructOne
 	int x = 50;		// Standardmäßig Public
 };
 
-main(void)
+main(void)			//Test101 für GitHub
 {
 	StructOne one;
 	ClassOne two;
